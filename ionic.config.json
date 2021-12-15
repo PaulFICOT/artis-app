@@ -1,0 +1,8 @@
+{
+  "name": "ArtisAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "ed055e38"
+}
